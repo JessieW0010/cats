@@ -19,6 +19,6 @@
   "homepage": "https://github.com/JessieW0010/cats#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
